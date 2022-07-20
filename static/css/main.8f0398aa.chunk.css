@@ -1,0 +1,2 @@
+.tabs{display:flex}.tabs__button{font-size:25px;padding:10px;border:1px solid #000;border-radius:10px;border-bottom-left-radius:0;border-bottom-right-radius:0;background-color:#fff}.tabs__button:hover{cursor:pointer;background-color:rgba(238,130,238,.5);transition:.5s}.tabs__item:not(:last-child){margin-right:10px}li{list-style-type:none}.isSelected{border:none}.isSelected,.isSelected:hover{background-color:violet}.content{font-size:36px}
+/*# sourceMappingURL=main.8f0398aa.chunk.css.map */
